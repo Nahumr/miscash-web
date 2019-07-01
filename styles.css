@@ -1,0 +1,76 @@
+.recta{
+	width: 500px;
+	height: 250px;
+	background-color: #AAA;
+	position: absolute;
+	left: 30%;	
+	top: 35%;
+	text-align: center;
+}
+
+
+.form-title{  
+	background-color: #4fb0f0;  
+	color: #FFF; 
+	font-size: 40px;
+	font-weight: bold; 
+}
+
+.fondo{
+	width: 100%;
+	height: 100%;
+	
+}
+
+.input{
+	display: flex;
+   justify-content: center;
+   align-items: center;
+   line-height: 30px;
+   margin: 20px 10px 30px 20px;
+   width: 90%;
+   font-size: 20px;
+}
+
+.submit-btn{
+	background-color: #4fb0f0;  
+	color: #FFF; 
+	width: 90%;
+	height: 40px;
+	font-size: 30px;
+}
+
+.contenedor{
+	position: relative;
+	display: inline-block;
+	text-align: center;
+}
+
+.encima{
+	position: absolute;
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+	top: 1%;
+}
+
+.grande{
+	font-weight: bold;
+	font-size: 50px;
+	position: absolute;
+}
+
+
+.cuadro3{ position: absolute;
+	top: 72%;
+	left: 5%;
+
+}
+
+.rectangulo{
+	width: 100%;
+	height: 730px;
+	background-color: #d5d5d5;
+
+
+}
